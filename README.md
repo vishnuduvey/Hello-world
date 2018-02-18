@@ -22,9 +22,13 @@ Download project and run follw commnad:
 
 Commands: 
 	grunt concat // For all js/css file to one file.
+
 	grunt concat-js   // For concat js file only.
-    grunt concat-css   // For concat css file only.	
+
+    grunt concat-css   // For concat css file only.
+
 	grunt uglify   // For minify js file.
+	
 	grunt cssmin   // For minify css file.
 	
 	
