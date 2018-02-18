@@ -20,16 +20,17 @@ Installing Grunt JS
 
 Download project and run follw commnad:
 
-Commands: 
-	To concat all js/css file to one file => `grunt concat` .
+Commands:
 
-	To  concat all js to one file => `grunt concat-js`
+To concat all js/css file to one file => `grunt concat`
 
-        To concat all css to one file => `grunt concat-css`
+To  concat all js to one file => `grunt concat-js`
 
-	To minify js file => `grunt uglify` 
-	
-	To minify css file => `grunt cssmin`
+To concat all css to one file => `grunt concat-css`
+
+To minify js file => `grunt uglify` 
+
+To minify css file => `grunt cssmin`
 	
 	
 
