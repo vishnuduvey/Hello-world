@@ -4,10 +4,15 @@ Installing Grunt JS
 
 
 -- Install Node.js
+
 -- Install grunt-cli globally
--- create package json file
+
+-- create package json file using `npm init`
+
 -- Install grunt locally
+
 -- Create a Gruntfile.js
+
 -- Install Plugins
 
 
